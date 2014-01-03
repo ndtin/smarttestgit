@@ -1,0 +1,4 @@
+smarttestgit
+============
+
+use test git
