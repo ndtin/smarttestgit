@@ -1,1 +1,4 @@
 Sau khi tạo file này xong, nguoi dung phải gởi Pull Request cho người chủ Project (repository)
+
+Tín add them code vao.
+Cho vui
